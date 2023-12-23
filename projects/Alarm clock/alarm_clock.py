@@ -82,5 +82,5 @@ secs.pack(side=LEFT)
 
 Button(root,text="Set Alarm",font=("Helvetica 15"),command=Threading).pack(pady=20)
 
-# Execute Tkinter
+# Execute Tkinter This is the change made.
 root.mainloop()
